@@ -1,3 +1,14 @@
+'''
+Author: jinta jintangz@126.com
+Date: 2023-03-19 13:52:24
+LastEditors: jinta jintangz@126.com
+LastEditTime: 2023-11-10 22:38:14
+FilePath: \ML_learning\src\config.py
+Description: 
+Version: 
+Copyright: kimzhao supported
+'''
+
 
 
 # 训练集路径
